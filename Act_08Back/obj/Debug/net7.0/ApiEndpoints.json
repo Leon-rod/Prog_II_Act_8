@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Act_08Back.Controllers.TurnoController",
+    "Method": "Get",
+    "RelativePath": "api/Turno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Act_08Back.Controllers.TurnoController",
+    "Method": "Post",
+    "RelativePath": "api/Turno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turno",
+        "Type": "Act_08Back.Models.Turno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
